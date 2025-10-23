@@ -80,11 +80,11 @@ Despite global healthcare advancements, stroke remains a leading cause of morbid
   - Normal glucose + Underweight: 0.43%
 
     ---
-    ![my visual](visual/Dashboard_for_stroke_analysis_1.jpg)
+    ![my visual](visual/Dashboard for stroke_analysis 1.jpg)
     
-    ![my visual](visual/Dashboard_for_stroke_analysis_2.jpg)
+    ![my visual](visual/Dashboard for stroke analysis 2.jpg)
 
-    ![my visual](visual/Dashboard_for_stroke_analysis_3.jpg)
+    ![my visual](visual/Dashboard for stroke analysis 3.jpg)
     
 
 ## 9. Results (Key Findings)
