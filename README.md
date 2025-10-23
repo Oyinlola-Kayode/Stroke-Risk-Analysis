@@ -79,6 +79,14 @@ Despite global healthcare advancements, stroke remains a leading cause of morbid
   - Diabetic + Obese: 11.24%
   - Normal glucose + Underweight: 0.43%
 
+    ---
+    ![my visual](visual/Dashboard_for_stroke_analysis_1.jpg)
+    
+    ![my visual](visual/Dashboard_for_stroke_analysis_2.jpg)
+
+    ![my visual](visual/Dashboard_for_stroke_analysis_3.jpg)
+    
+
 ## 9. Results (Key Findings)
 
 ### 9.1 Age as a Primary Risk Driver
